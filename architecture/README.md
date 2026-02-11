@@ -1,4 +1,3 @@
-
 # Architecture
 
 This folder contains the architecture diagram for the Azure IAM & RBAC lab project.
